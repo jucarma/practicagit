@@ -1,4 +1,4 @@
-  GNU nano 4.9.3                                      git-nuestro.md
+#Gitsucristo Superstar
 Git nuestro
 Git nuestro que estas en los repos
 Comprimidos sean tus commits
